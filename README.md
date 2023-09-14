@@ -12,6 +12,7 @@ Guide for this sample: https://assette.com.
 ## Running the Sample
 - Open a new terminal ( in VS code Terminal->New Terminal)
 - Navigate to the local code folder path
-- Run `py -m venv env` in terminal to create virtual enviorment and setup env folder
+- Run `python -m venv env` in terminal to create virtual enviorment and setup env folder
 - Run `pip install -r requirements.txt` in terminal to install the dependancies
-- Run `python sud_vs_block2.py` in terminal to install the dependancies
+- Run `python code\sud_vs_block2.py` in terminal to execute the program
+
